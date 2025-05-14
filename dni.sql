@@ -1,0 +1,2 @@
+USE Proyecto;
+SELECT DNI FROM ALUMNOS;

@@ -1,0 +1,2 @@
+USE Proyecto;
+SELECT * FROM TEST_TEORICOS;
